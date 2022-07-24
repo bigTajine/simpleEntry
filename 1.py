@@ -2,9 +2,9 @@ from datetime import datetime
 import random
 
 def CD_script():
-    Kawaii_List = [' ヾ(＠⌒▽⌒＠)ﾉ',' ヾ｜￣ー￣｜ﾉ',' ╰(◡‿◡✿╰)',' (◕ω◕✿)',' (▰˘◡˘▰)',' (◡‿◡✿)',' （＊＾Ｕ＾）人（≧Ｖ≦＊）/',' ✿◕ ‿ ◕✿',' （ミ￣ー￣ミ）',' ٩(◕‿◕｡)۶',' (* ^ ω ^)',' ＼(￣▽￣)／',' (╯✧▽✧)╯']
     Response_List = ['Good job!', 'Excellent work!', 'Great job!', 'Keep it up!', 'Good work!']
     Extra_Response_List = ['','','','',' You\'re doing good bro.','','',' You\'re a star.']
+    Kawaii_List = [' ヾ(＠⌒▽⌒＠)ﾉ',' ヾ｜￣ー￣｜ﾉ',' ╰(◡‿◡✿╰)',' (◕ω◕✿)',' (▰˘◡˘▰)',' (◡‿◡✿)',' （＊＾Ｕ＾）人（≧Ｖ≦＊）/',' ✿◕ ‿ ◕✿',' （ミ￣ー￣ミ）',' ٩(◕‿◕｡)۶',' (* ^ ω ^)',' ＼(￣▽￣)／',' (╯✧▽✧)╯']
     print('---------------')
     Customer_ID = input("C: ")
     AML_Date = input("D: ")
