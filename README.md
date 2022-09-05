@@ -8,6 +8,6 @@ Although it is something very simple it has improved the following:
 2) Improved performance.
 3) Lessened mental burden.
 
-With this plus using other methods such as hotkeys, pastebinp and separate Excel sheets I'm able to exceed the daily target in about 2.5 hours in comparission to the average grind of 7.5 hours and place myself in the above average category when compared to my colleagues. (▰˘◡˘▰)
+With this plus using other methods such as hotkeys, pastebinp and separate Excel sheets I'm able to exceed the daily target in about 2.5 hours in comparission to the average grind of 7.5 hours and place myself in the above average category when compared to my peers. (▰˘◡˘▰)
 
 bT
