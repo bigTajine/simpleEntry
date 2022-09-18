@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class simpleEntry {
     public static void main(String[] args) throws ParseException {
         while (true) {
             String[] responseArray = {"Good job!", "Excellent work!", "Great job!", "Keep it up!", "Good work!"};
